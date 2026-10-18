@@ -1,16 +1,4 @@
 {
   "schemaVersion": 1,
-  "items": [
-    {
-      "id": "beta-feedback-via-screenshot",
-      "title": {
-        "de": "Feedback in Sekunden",
-        "en": "Feedback in seconds"
-      },
-      "body": {
-        "de": "Dir fällt etwas auf? Mach einfach einen Screenshot, tippe auf die Vorschau und dann auf „Beta-Feedback teilen“. Schreib ein paar Worte dazu, fertig. Gerät und App-Version schickt TestFlight automatisch mit. Welcher Screen oder welches Training gerade offen war, sieht es aber nicht, das gern kurz dazuschreiben.",
-        "en": "Spotted something? Just take a screenshot, tap the preview and choose “Share Beta Feedback”. Add a few words and you're done. TestFlight includes your device and app version automatically. It can't see which screen or workout you had open, so feel free to mention that."
-      }
-    }
-  ]
+  "items": []
 }
